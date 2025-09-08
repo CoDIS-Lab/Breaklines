@@ -49,8 +49,8 @@ breaklines/
 ```verbatim
 @article{karakus2025breaklines,
   title={Through the Gaps: Uncovering Tactical Line-Breaking Passes with Clustering},
-  author={Karakus, Oktay and Arkadaş, Hasan},
-  journal={arXiv preprint arXiv:XXXX.XXXXX},
+  author={Karakuş, Oktay and Arkadaş, Hasan},
+  journal={arXiv preprint arXiv:2506.06666},
   year={2025}
 }
 ```

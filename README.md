@@ -3,7 +3,7 @@ This repo consists of codes, presentations and other details of the Breaklines P
 
 > *An unsupervised, interpretable framework for detecting and analysing line-breaking passes (LBPs) using spatiotemporal football data.*
 
-![Figure 1: Core Framework — Detecting LBPs and computing SBR](figures/fig1.pdf)
+![Figure 1: Core Framework — Detecting LBPs and computing SBR](figures/fig1_1.png)
 
 ## Overview
 

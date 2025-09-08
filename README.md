@@ -56,3 +56,5 @@ breaklines/
 ```
 
 > Made with ❤️ by [Dead Ball Analytics](https://deadballanalytics.substack.com/) and Cardiff University
+
+> Contact: Dr Oktay Karakus: [karakuso@cardiff.ac.uk](mailto:karakuso@cardiff.ac.uk)

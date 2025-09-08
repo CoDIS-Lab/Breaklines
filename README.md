@@ -35,6 +35,7 @@ Uses the [PFF FC World Cup 2022 Dataset](https://www.blog.fc.pff.com/blog/pff-fc
 - Roster, meta, and alignment information for full context
 
 ## 📂 Folder Structure
+```verbatim
 breaklines/
 │
 ├── figures/             # Paper and visualization assets
@@ -42,14 +43,16 @@ breaklines/
 ├── src/                 # Core scripts for clustering, SBR, LBPCh
 ├── videos/              # Video recording for the presentations
 └── README.md
+```
 
 ## 📌 Citation
+```verbatim
 @article{karakus2025breaklines,
   title={Through the Gaps: Uncovering Tactical Line-Breaking Passes with Clustering},
   author={Karakus, Oktay and Arkadaş, Hasan},
   journal={arXiv preprint arXiv:XXXX.XXXXX},
   year={2025}
 }
+```
 
-
-Made with ❤️ by Dead Ball Analytics and Cardiff University
+> Made with ❤️ by Dead Ball Analytics and Cardiff University

@@ -1,4 +1,4 @@
-# Breaklines BreakLines: Uncovering Tactical Line-Breaking Passes
+# BreakLines: Uncovering Tactical Line-Breaking Passes
 This repo consists of codes, presentations and other details of the Breaklines Project
 
 > *An unsupervised, interpretable framework for detecting and analysing line-breaking passes (LBPs) using spatiotemporal football data.*

@@ -55,4 +55,4 @@ breaklines/
 }
 ```
 
-> Made with ❤️ by Dead Ball Analytics and Cardiff University
+> Made with ❤️ by [Dead Ball Analytics](https://deadballanalytics.substack.com/) and Cardiff University
